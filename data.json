@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "photo": "https://uploads-ssl.webflow.com/65dde1d87b22dce63f6667fe/65df670fc107a42bcec97837_Rectangle%201.png",
+        "name": "Tim Boisvert",
+        "role": "CTO, AirHelp",
+        "country": "Barcelona 🇪🇸",
+        "desc": "Tim Boisvert, with over 25 years of experience in the technology sector, has recently stepped into the role of Chief Technology Officer (CTO) at AirHelp, the world's largest air passenger rights organization. Before joining AirHelp, Boisvert held significant positions at wefox as Vice President of Engineering and Platform Architect, where he was responsible for the development and operation of a wide range of platform services, tools, and applications, including customer-facing web and mobile applications and over 100 microservices. His extensive background includes roles at Yahoo! and AOL, where he focused on engineering, personalization, content, and platform architecture. At AirHelp, Boisvert is tasked with driving innovation, managing the company's engineering, data, IT, and security teams, and helping to scale the company's core systems while advancing its technology culture. His arrival at AirHelp comes at a pivotal time, as the company aims to enhance its customer experience and continue its mission of making claiming compensation for air passengers as seamless as possible through the use of data and cutting-edge technology. Boisvert's leadership is expected to play a crucial role in AirHelp's technology-driven growth, emphasizing the importance of delivering superior customer experiences and fulfilling the company's mission."
+    },
+    {
+        "id": 2,
+        "photo": "https://uploads-ssl.webflow.com/65dde1d87b22dce63f6667fe/65df670f7eb08fbd76a6906d_Rectangle%202.png",
+        "name": "Mike Benchimol",
+        "role": "Ex-C0O, Checkout",
+        "country": "London 🇬🇧",
+        "desc": "Mike Benchimol has a notable background in the fintech and health tech sectors, having served in significant operational roles at Checkout.com and Alan. At Checkout.com, he played a pivotal role as COO, contributing to the company's rapid growth and expansion in the global payments landscape. Under his operational leadership, Checkout.com experienced a notable increase in valuation and expanded its international presence, affirming its status as a leading global payment solution provider. Following his tenure at Checkout.com, Mike Benchimol moved to Alan, where he is involved in operations. Alan is recognized for its innovative approach to health insurance, aiming to make healthcare more accessible and user-friendly. Benchimol's transition to Alan signifies his continued influence in the tech industry, particularly in companies that are at the intersection of technology and essential services like finance and healthcare."
+    },
+    {
+        "id": 3,
+        "photo": "https://uploads-ssl.webflow.com/65dde1d87b22dce63f6667fe/65e1d7ff6c05b0471df02e21_Frame%2059587.png",
+        "name": "Ulric Musset",
+        "role": "Ex CEO, Vauban (acquired by Carta)",
+        "country": "London 🇬🇧",
+        "desc": "Ulric Musset, previously the co-CEO of Vauban, played a pivotal role in its success and eventual acquisition by Carta. Vauban, under his leadership, became a prominent venture capital platform, simplifying the process for angel syndicates and VCs to set up and manage SPVs directly from their laptops. With over $1 billion invested through the platform, Vauban catered to a wide range of users, including notable names like Passion Capital, Octopus Ventures, and Chris Adelsbach. Musset's entrepreneurial journey with Vauban was marked by strategic decisions and a focus on the private markets, leading to substantial growth after a pivot from hedge fund clients. His contributions were instrumental in navigating Vauban through early challenges and towards a significant growth trajectory, culminating in its integration with Carta's global suite of fund and SPV formation solutions. Now, Musset is channeling his expertise into Marblism, a platform aiming to revolutionize app creation through AI, showcasing his continuous innovation and impact on the tech ecosystem."
+    },
+    {
+        "id": 4,
+        "photo": "https://uploads-ssl.webflow.com/65dde1d87b22dce63f6667fe/65e1d7ff9a41d0ccd77b6338_Frame%2059588.png",
+        "name": "Cleo Sham",
+        "role": "CTO, AirHelp",
+        "country": "London 🇬🇧",
+        "desc": "Cleo Sham is a prominent figure in the venture capital and technology sectors, known for her significant contributions to scaling companies from Series B to IPO. Her career highlights include a pivotal role as an early General Manager at Uber China, where she was instrumental in expanding the business volume by more than 1000 times in just two years, turning Guangzhou into Uber's largest city globally. Following her success in China, Sham took on the role of Director of Operations in EMEA at Uber, leading the platformization of operations across 45 EMEA countries prior to Uber's IPO. Most recently, she served as COO and board member at Spotahome. In June 2021, Sham transitioned to a partner role at Stride.VC, a venture capital firm. Her experience encompasses both operations and investing, with a passionate commitment to backing founders as an angel investor in over 60 startups across Europe and the US. Her investment focus primarily includes marketplaces, B2B, fintech, and consumer sectors. Prior to her remarkable achievements at Uber and her venture into venture capital, Sham was a two-time founder, a proprietary trader at Bank of America Merrill Lynch, and a consultant at McKinsey. She holds an MBA from the Wharton School and a BA from Rice University. At Stride.VC, Cleo Sham joined the team during a period of growth and transition, with the firm raising its second fund valued at £100 million ($138.6 million), primarily investing in London startups and select European opportunities. This period also saw personnel changes at Stride VC, including Sham joining as a new partner full-time in June, as announced on Twitter. The firm aims to continue its commitment to seed-stage investments, often leading or co-leading funding rounds, and occasionally engaging in larger investments as part of its core investment program. Sham's career trajectory is a testament to her versatile skill set, ranging from operational excellence to strategic investment decisions, making her a valuable asset to the technology and venture capital communities." 
+    },
+    {
+        "id": 5,
+        "photo": "https://uploads-ssl.webflow.com/65dde1d87b22dce63f6667fe/65e1d7fe3c11d81a58b78d87_Frame%2059589.png",
+        "name": "Boris Lokschin",
+        "role": "CEO & Co-Founder, Spryker",
+        "country": "Berlin 🇩🇪",
+        "desc": "Boris Lokschin is a serial entrepreneur with a strong background in digital commerce and digital transformation. As the co-founder and CEO of Spryker, he has played a pivotal role in cloudification and open-source movements within the commerce tech industry. Lokschin's experience includes offering software-as-a-service solutions before they became widely recognized. Under his leadership, Spryker has empowered over 150 companies globally, including major names like ALDI and Toyota, across various commerce sectors. Spryker  secured $130 million in Series C funding in December 2020, valuing the company at over $500 million."
+    },
+    {
+        
+        "id": 6,
+        "photo": "https://uploads-ssl.webflow.com/65dde1d87b22dce63f6667fe/65e1d7ff4d235323b53be50c_Frame%2059590.png",
+        "name": "Francesco Pittarello",
+        "role": "Head of Growth Marketing, FAIRE",
+        "country": "San Fransisco 🇺🇸",
+        "desc": "Francesco Pittarello is the Head of Growth Marketing at Faire, a leading online wholesale marketplace. He took the role after his impactful tenure as the Director of Marketing Technology at Uber and his leadership in Global Display Marketing, Paid Social & Affiliate Marketing at Foodora. At Faire, Pittarello leverages his extensive experience in marketing, focusing on paid channels, marketing solutions, and consumer performance marketing strategy, including App Store Optimization (ASO). His efforts have been instrumental in scaling growth and improving efficiency across the organizations he's been part of. Francesco holds an MBA in International Management from ESCP Business School, along with a Master of Science in Business Administration from Università degli Studi di Verona."
+    },
+    {
+        
+        "id": 7,
+        "photo": "https://uploads-ssl.webflow.com/65dde1d87b22dce63f6667fe/65e1d7ff4533a353a84f8f5f_Frame%2059591.png",
+        "name": "Daniele Bruttini",
+        "role": "Founder, Quomi (Exited)",
+        "country": "Milan 🇮🇹",
+        "desc": "Daniele Bruttini is recognized for his entrepreneurial spirit in the innovation sector, particularly within the FoodTech industry. He is the founder of Quomi, a meal kit delivery service that emphasizes the Mediterranean diet, aiming to make it easier for people to eat healthily and tastily at home. Bruttini has a track record of success, having completed a successful exit with his first venture. His experience spans across several countries, including Italy, Germany, and The Netherlands, contributing to well-funded companies in the e-commerce and startup sectors."
+    }, 
+    {
+        
+        "id": 8,
+        "photo": "https://uploads-ssl.webflow.com/65dde1d87b22dce63f6667fe/65e1d7fff5a11a2b9c2a6dff_Frame%201795.png",
+        "name": "Lucie Poisson",
+        "role": "Head of Brand Campaigns, IONOS",
+        "country": "Karlsruhe 🇩🇪  ",
+        "desc": "Lucie Poisson, with her Ph.D. in linguistics focusing on storytelling in advertising, began her journey at IONOS as an International Online Marketing Manager. Her expertise led her to a role as Commercial Product Manager, where she utilized her skills in global marketing strategies. Before IONOS, she contributed to marketing and digital projects at SAP and several publishers in Paris, showcasing her versatility and depth in the field."
+    }, 
+    {
+        
+        "id": 9,
+        "photo": "",
+        "name": "Mario Vargas",
+        "role": "CTO, AirHelp",
+        "country": "Barcelona 🇪🇸  ",
+        "desc": "Mario Vargas is a Microsoft executive, currently serve as EMEA Advanced Analytics Lead based in Barcelona. Previously was Director for Advanced Analytics for Canada and LATAM, US Cross Solutions in Microsoft Solutions and LATAM Azure Sales Lead at Microsoft Solutions responsible for a special technical swat team on Azure Services. Mario studied Systems Analysis at ORT Technological Institute of Buenos Aires, Argentina (1988). Also attend the Executive Development Program (EDP) at Wharton School/University of Pennsylvania and got a Technology Entrepreneurship Diploma at Stanford University 2006."
+    }
+]
